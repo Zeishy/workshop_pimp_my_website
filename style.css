@@ -1,0 +1,24 @@
+a{
+    color:darkred !important;
+}
+
+body {
+    background-image: url(https://images2.alphacoders.com/118/1184254.png) !important;
+}
+
+#sidebar {
+    color: #ff1419 !important;
+    background-color:tan !important;
+}
+
+.understand-alerts a:hover {
+    background-color: tan !important;
+}
+
+#intra {
+    color:indigo !important;
+}
+
+#header-wrapper {
+    color: black !important;
+}
